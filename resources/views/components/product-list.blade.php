@@ -46,9 +46,9 @@
      </div>
     </div>
  
-    <div class="row gx-2 py-3 justify-content-center align-items-center">
+  <div class="row gx-4 py-3 justify-content-center align-items-center">
   <div class="col-md-5">
-    <div class="card" style="overflow-y: scroll; background-color: rgba(255, 255, 255, 0.5); border-color: #C43F52; border-radius: 15px; border: 3px solid #C43F52; height: 280px;">
+    <div class="card" style="overflow-y: scroll; background-color: rgba(255, 255, 255, 0.5); border-color: #C43F52; border-radius: 15px; border: 3px solid #C43F52; height: 280px; width: 98%;">
       <div class="card-body">
         <h3 class="card-title"><span style="font-family: 'Lexend'; font-style: normal; font-size: 30px; line-height: 56px; text-align: center; color: #000000; mix-blend-mode: normal;">MEAL</span></h3>
         <div class="row justify">
@@ -69,7 +69,7 @@
   </div>
 
   <div class="col-md-3">
-    <div class="card" style="overflow-y: scroll; background-color: rgba(255, 255, 255, 0.5); border-color: #C43F52; border-radius: 15px; border: 3px solid #C43F52; height: 280px;">
+    <div class="card" style="overflow-y: scroll; background-color: rgba(255, 255, 255, 0.5); border-color: #C43F52; border-radius: 15px; border: 3px solid #C43F52; height: 280px; width: 106%;">
       <div class="card-body">
         <h3 class="card-title"><span style="font-family: 'Lexend'; font-style: normal; font-size: 30px; line-height: 56px; text-align: center; color: #000000; mix-blend-mode: normal;">Drinks</span></h3>
         <div class="row justify-content-center">
