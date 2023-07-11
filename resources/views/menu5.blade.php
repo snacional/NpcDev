@@ -39,13 +39,7 @@
             </div>
         </div>
         </div>
-              <div class="col">
-                <div class="card" style="background-color:#C43F52;">
-                <div class="popular card-body">
-                <p class="pp my-2">Food 5</p>
-            </div>
-           </div>
-         </div>
+           
        </div>
       </div>
      </div>
@@ -98,27 +92,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col">
-                <div class="card" style="background-color: white;">
-                  <div class="menu card-body">
-                    <p class="p my-2">Food 7</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card" style="background-color: white;">
-                  <div class="menu card-body">
-                    <p class="p my-2">Food 8</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card" style="background-color: white;">
-                  <div class="menu card-body">
-                    <p class="p my-2">Food 9</p>
-                  </div>
-                </div>
-              </div>
+              
             </div>
         </div>
     </div>
@@ -149,13 +123,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col">
-                <div class="card" style="background-color: white;">
-                  <div class="menu card-body">
-                  <p class="p my-2">Drink 4</p>
-                  </div>
-                </div>
-              </div>
+             
             </div>
         </div>
     </div>
