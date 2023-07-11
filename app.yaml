@@ -1,11 +1,12 @@
-runtime: php82
+runtime: php
+env: flex
+
+runtime_config:
+  document_root: public
 
 env_variables:
   ## Put production environment variables here.
   APP_KEY: base64:pGgKt/uwwEAZU2aNy/Dn96BM1wdSmb20wE0uPaozmsA=
-  APP_STORAGE: /tmp
-  VIEW_COMPILED_PATH: /tmp
-  SESSION_DRIVER: cookie
 
 
   ## To use Stackdriver logging in your Laravel application, copy
